@@ -22,7 +22,7 @@
 
 ## Contributing
 
-Feel free to open issues or submit pull requests for suggestions or improvements !
+Feel free to open issues or submit pull requests for suggestions or improvements !!
 
 ## License
 
