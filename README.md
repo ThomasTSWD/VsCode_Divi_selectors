@@ -1,4 +1,4 @@
-# divi-suggest README
+# Divi Suggest README
 
 This is the README for your extension "divi-suggest". After writing up a brief description, we recommend including the following sections.
 
