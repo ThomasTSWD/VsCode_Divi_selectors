@@ -1,65 +1,29 @@
-# Divi Suggest README
+# Divi Suggest
 
-This is the README for your extension "divi-suggest". After writing up a brief description, we recommend including the following sections.
+**Divi Suggest** is a Visual Studio Code extension that provides autocomplete suggestions for Divi theme CSS classes and IDs.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- Autocomplete suggestions for Divi theme CSS classes and IDs.
+- Supports both CSS and JavaScript files.
+- Speeds up development with common Divi selectors.
 
-For example if there is an image subfolder under your extension project workspace:
+## Installation
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Open Visual Studio Code.
+2. Go to Extensions (`Ctrl+Shift+X`).
+3. Search for `Divi Suggest`.
+4. Click **Install**.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Usage
 
-## Requirements
+- **CSS Files**: Type Divi CSS selectors to see autocomplete suggestions.
+- **JavaScript Files**: Use `document.querySelector` or `document.querySelectorAll` to get suggestions for Divi selectors.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Contributing
 
-## Extension Settings
+Feel free to open issues or submit pull requests for suggestions or improvements.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## License
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+MIT License. See [LICENSE](LICENSE) for details.
