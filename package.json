@@ -1,7 +1,7 @@
 {
   "name": "divi-suggest",
   "displayName": "Divi Suggest",
-  "description": "Divi theme suggestions",
+  "description": "Divi theme css suggestions",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.92.0"
