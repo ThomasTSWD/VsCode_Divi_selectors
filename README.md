@@ -2,7 +2,7 @@
 
 **Divi Suggest** is a Visual Studio Code extension that provides autocomplete suggestions for Divi theme CSS classes and IDs.
 
-## Features
+## Features 
 
 - Autocomplete suggestions for Divi theme CSS classes and IDs.
 - Supports both CSS and JavaScript files.
