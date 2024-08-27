@@ -7,7 +7,7 @@
 - Autocomplete suggestions for Divi theme CSS classes and IDs.
 - Supports both CSS and JavaScript files.
 - Speeds up development with common Divi selectors.
-
+ 
 ## Installation
 
 1. Open Visual Studio Code.
