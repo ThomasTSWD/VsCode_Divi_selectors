@@ -1,6 +1,6 @@
 {
   "name": "divi-suggest",
-  "displayName": "Divi Suggest",
+  "displayName": "Vs Code Divi Suggest",
   "description": "Divi theme css suggestions",
   "version": "0.0.1",
   "engines": {
