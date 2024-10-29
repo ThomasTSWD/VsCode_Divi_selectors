@@ -1,6 +1,6 @@
 {
   "name": "divi-suggest",
-  "displayName": "Vs Code Divi Suggest",
+  "displayName": "Vs Code WP Divi selectors",
   "description": "Divi theme css suggestions",
   "version": "0.0.2",
   "engines": {
